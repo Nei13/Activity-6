@@ -1,0 +1,29 @@
+.nav3 {
+  background-color: aqua;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: 260px;
+  border-radius: 10px;
+  background: url(art.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-size: xx-large;
+  color: chartreuse;
+}
+
+.btn1 {
+  background-color: rgb(204, 186, 28);
+}
+
+.btn2 {
+  background-color: rgb(43, 233, 59);
+}
